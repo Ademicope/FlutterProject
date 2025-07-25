@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508039188814",
+    "project_id": "ilera-a7681",
+    "storage_bucket": "ilera-a7681.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508039188814:android:c98333091adf73a3954e1f",
+        "android_client_info": {
+          "package_name": "com.example.ileraapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyVfKT7xdnWSvXt0a7s1sZ0Wf2oqnAa18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
